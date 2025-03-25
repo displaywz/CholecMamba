@@ -14,6 +14,10 @@ Our model achieves optimal performance on existing datasets and CholecReason, wi
 
 https://github.com/user-attachments/assets/c92dea41-acb0-4743-9df3-c1f3a71be294
 
+### GIF Demo
+
+![ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/de3bf9e0-a8a9-4fec-becf-04983eb4fcaa)
+
 ### Data construction pipeline
 ![CM](images/data_construction.png)
 ### CholecMamba architecture
