@@ -10,6 +10,10 @@ Automatic analysis of cholecystectomy surgical videos has significant clinical v
 
 Our model achieves optimal performance on existing datasets and CholecReason, with a closed-test score of 0.822, significantly outperforming the best competing model’s score of 0.728.
 
+### Playground Demo
+
+https://github.com/user-attachments/assets/c92dea41-acb0-4743-9df3-c1f3a71be294
+
 ### Data construction pipeline
 ![CM](images/data_construction.png)
 ### CholecMamba architecture
