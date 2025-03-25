@@ -291,7 +291,7 @@ with st.sidebar:
     temperature = st.slider('temperature', min_value=0.01, max_value=1.0, value=0.8, step=0.01)
     top_p = st.slider('top_p', min_value=0.01, max_value=1.0, value=0.9, step=0.01)
     max_length = st.slider('max_length', min_value=32, max_value=4096, value=2048, step=8)
-    st.markdown('🔗 Learn about the creation of CholecMamba [team](http://www.radiomics.net.cn/change-language/en)💡')
+    st.markdown('🔗 Learn about the creation of CholecMamba [team](Currently anonymous)💡')
 
 # Initialize chat history
 if "messages" not in st.session_state:
