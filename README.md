@@ -1,4 +1,4 @@
-# CholecMamba: A Mamba-based Multimodal Reasoning Model for Cholecystectomy Surgery
+# [MICCAI 2025] CholecMamba: A Mamba-based Multimodal Reasoning Model for Cholecystectomy Surgery
 
 ---
 
